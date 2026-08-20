@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=260&section=header&text=Ketan%20Kakde&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=🚀%20DevOps%20%26%20Cloud%20Engineer%20%7C%20⚙️%20Automation%20Enthusiast&descSize=18&descAlignY=58&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ketan%20Kakde&fontSize=50&fontAlignY=35&desc=DevOps%20%7C%20Cloud%20%7C%20Automation&descAlignY=55)
 
 # 🚀 About Me:
 🔭 I'm currently working on **DevOps, Cloud Infrastructure & CI/CD Projects**<br>

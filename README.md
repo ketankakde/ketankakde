@@ -1,8 +1,7 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ketan%20Kakde&fontSize=50&fontAlignY=35&desc=DevOps%20%7C%20Cloud%20%7C%20Automation&descAlignY=55)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=Ketan%20Kakde&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=🚀%20DevOps%20%26%20Cloud%20Engineer%20%7C%20⚙️%20Automation%20Enthusiast&descSize=18&descAlignY=58&animation=fadeIn)
 
 # 🚀 About Me:
 🔭 I'm currently working on **DevOps, Cloud Infrastructure & CI/CD Projects**<br>
-🌱 I'm currently learning **DevSecOps, Platform Engineering & FinOps**<br>
 🤝 I'm looking to collaborate on **DevOps, Cloud & DevSecOps Projects**<br>
 💬 Ask me about **AWS, Docker, Kubernetes, Terraform, Jenkins, GitHub Actions, Argo CD, DevSecOps**<br>
 ⚡ I trust automation. I don't trust humans.
@@ -21,7 +20,7 @@
 
 ---
 
-## �🌐 Socials:
+## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ketan-kakde-346470231/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ketankakde@outlook.com)
 
 ---
@@ -38,13 +37,19 @@
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ketankakde&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+```python
+import coffee
 
----
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+while True:
+    if coffee.empty():
+        raise Exception("Cannot code. Send help. Or coffee.")
+    
+    bug = fix_bug()
+    
+    if bug.fixed():
+        print("Shipping to production 🚀")
+        introduce_new_bugs()  # as a treat
+```
 
 ---
 

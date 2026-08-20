@@ -37,20 +37,4 @@
 
 ---
 
-```python
-import coffee
-
-while True:
-    if coffee.empty():
-        raise Exception("Cannot code. Send help. Or coffee.")
-    
-    bug = fix_bug()
-    
-    if bug.fixed():
-        print("Shipping to production 🚀")
-        introduce_new_bugs()  # as a treat
-```
-
----
-
 [![](https://komarev.com/ghpvc/?username=ketankakde&color=0e75b6&style=flat)](https://github.com/ketankakde)

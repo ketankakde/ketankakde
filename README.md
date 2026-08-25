@@ -1,4 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=260&section=header&text=Ketan%20Kakde&fontSize=72&fontAlignY=38&fontColor=FFFFFF&fontFamily=Raleway&stroke=00d4ff&strokeWidth=1.5&animation=fadeIn&desc=DevOps%20and%20Cloud%20Enthusiast&descSize=22&descAlignY=58&descColor=a8dadc" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header" width="100%"/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=50&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&height=100&lines=Ketan+Kakde;DevOps+&+Cloud+Enthusiast" alt="Typing SVG" />
+</div>
 
 # 🚀 About Me:
 🔭 I'm currently working on **DevOps, Cloud Infrastructure & CI/CD Projects**<br>

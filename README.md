@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ketan%20Kakde&fontSize=50&fontAlignY=35&desc=DevOps%20and%20Cloud%20Enthusiast&descAlignY=55)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=260&section=header&text=Ketan%20Kakde&fontSize=70&fontAlignY=38&fontColor=FFFFFF&stroke=00d4ff&strokeWidth=2&animation=twinkling&desc=DevOps%20&%20Cloud%20Enthusiast&descSize=22&descAlignY=58&descColor=a8dadc" width="100%"/>
 
 # 🚀 About Me:
 🔭 I'm currently working on **DevOps, Cloud Infrastructure & CI/CD Projects**<br>

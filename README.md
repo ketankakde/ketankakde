@@ -4,7 +4,7 @@
 🔭 I'm currently working on **DevOps, Cloud Infrastructure & CI/CD Projects**<br>
 🤝 I'm looking to collaborate on **DevOps, Cloud & DevSecOps Projects**<br>
 💬 Ask me about **AWS, Docker, Kubernetes, Terraform, Jenkins, GitHub Actions, Argo CD, DevSecOps**<br>
-⚡ I trust automation. I don't trust humans.
+⚡ Fun Fact I don't trust humans but I trust AI.
 
 ---
 

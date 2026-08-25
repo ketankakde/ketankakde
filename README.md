@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=42&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&height=100&lines=Ketan+Kakde+DevOps+and+Cloud+Enthusiast" alt="Ketan Kakde — DevOps and Cloud Enthusiast" />
+  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=42&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&height=100&lines=Ketan+Kakde;DevOps+and+Cloud+Enthusiast" alt="Ketan Kakde — DevOps and Cloud Enthusiast" />
 </div>
 
 # 🚀 About Me:

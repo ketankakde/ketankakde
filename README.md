@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ketan%20Kakde&fontSize=50&fontAlignY=35&desc=DevOps%20%7C%20Cloud%20%7C%20Automation&descAlignY=55)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ketan%20Kakde&fontSize=50&fontAlignY=35&desc=DevOps%20%26%20Cloud%20Enthusiast&descAlignY=55)
 
 # 🚀 About Me:
 🔭 I'm currently working on **DevOps, Cloud Infrastructure & CI/CD Projects**<br>
@@ -38,3 +38,13 @@
 ---
 
 [![](https://komarev.com/ghpvc/?username=ketankakde&color=0e75b6&style=flat)](https://github.com/ketankakde)
+
+---
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ketankakde/ketankakde/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ketankakde/ketankakde/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ketankakde/ketankakde/output/github-snake.svg" />
+</picture>
